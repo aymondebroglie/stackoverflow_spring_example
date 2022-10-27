@@ -1,0 +1,4 @@
+CREATE TABLE a (
+    uuid VARCHAR(36) PRIMARY KEY NOT NULL,
+    content VARCHAR(255) NOT NULL
+);
